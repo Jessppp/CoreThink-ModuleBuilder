@@ -1,6 +1,6 @@
 # CoreThink模块生成工具
 
-CoreThink是一款强大的CMF,后台htmlbuilder非常方便增删改查的页面生成,但是由于官方自动生成模块需要充值中级会员,索性自己写了个生成器.
+CoreThink是一款强大的CMF,后台htmlbuilder非常方便,但是由于官方自动生成模块需要充值中级会员,索性自己写了个生成器.
 
 CoreThink官方网站:http://corethink.cn/
 
